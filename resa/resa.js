@@ -10,7 +10,7 @@ function AddData() {
     document.getElementById("errror").textContent = "";
 
     // Make an AJAX request to fetch the data
-    fetch("http://localhost:3000/data")
+    fetch("https://senior-a261.onrender.com/data")
     .then(response => response.json())
     .then(data => {
         // Loop through the data and add rows to the table
@@ -51,7 +51,7 @@ function AddData() {
                 e: ""
             };
             array.push(requestBody);
-            fetch("http://localhost:3000/data",
+            fetch("https://senior-a261.onrender.com/data",
                 {
                     method: 'PUT',
                     headers: {

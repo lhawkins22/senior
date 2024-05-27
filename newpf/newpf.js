@@ -64,7 +64,7 @@ function AddData() {
 
             array.push(requestBbody);
             array.push(requestBody);
-            fetch("http://localhost:3000/data",
+            fetch("https://senior-a261.onrender.com/data",
                 {
                     method: 'PUT',
                     headers: {

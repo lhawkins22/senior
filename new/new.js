@@ -41,7 +41,7 @@ function AddData() {
                 e: ""
             };
             dattta.push(requestBody);
-            fetch("http://localhost:3000/data",
+            fetch("https://senior-a261.onrender.com/data",
                 {
                     method: 'PUT',
                     headers: {
