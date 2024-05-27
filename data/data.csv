@@ -1,24 +1,24 @@
-fname,lname,type,a,b,c,d,e
-Xiomara,A La Torre,cred,password,TRUE,TRUE,,
-Natasha,Calderon Cevilla,cred,password,TRUE,TRUE,,
-Eduardo,Casillas Castellanos,cred,password,TRUE,TRUE,,
-Joyce,De Quiros,cred,password,TRUE,TRUE,,
-Jaydee,Dinh,cred,password,TRUE,TRUE,,
-Gavin,Dodman,cred,password,TRUE,TRUE,,
-Bruno,Ferreyra,cred,password,TRUE,TRUE,,
-Skyler,Gassel,cred,password,TRUE,TRUE,,
-Angel,Gutierrez,cred,password,TRUE,TRUE,,
-Lavinia,Hawkins,cred,lot7draw8,false,TRUE,,
-Levi,Khachadoorian,cred,password,TRUE,TRUE,,
-Kerry,Kong,cred,password,TRUE,TRUE,,
-Kent ,Lim,cred,password,TRUE,TRUE,,
-Anthony,Mancini,cred,password,TRUE,TRUE,,
-Silas,Newcott,cred,password,TRUE,TRUE,,
-Dylan,Raya,cred,password,TRUE,TRUE,,
-Murphy,Rogers,cred,password,TRUE,TRUE,,
-Naima,Torres,cred,password,TRUE,TRUE,,
-Ethan,Whittaker,cred,password,TRUE,TRUE,,
-Walker,Wilson,cred,password,TRUE,TRUE,,
-test,test,cred,pass,TRUE,TRUE,,
-Chat,GPT,cred,genai,false,TRUE,,
-Chat,GPT,profile,I once built a robot that can solve a Rubik's Cube in under ,I'll be attending Stanford University to study Computer Science.,"""Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."" – Christian D. Larson",#3498db,Email: futurecoder@example.com Instagram: @futurecoder
+"fname","lname","type","a","b","c","d","e"
+"Xiomara","A La Torre","cred","password","TRUE","TRUE","",""
+"Natasha","Calderon Cevilla","cred","password","TRUE","TRUE","",""
+"Eduardo","Casillas Castellanos","cred","password","TRUE","TRUE","",""
+"Joyce","De Quiros","cred","password","TRUE","TRUE","",""
+"Jaydee","Dinh","cred","password","TRUE","TRUE","",""
+"Gavin","Dodman","cred","password","TRUE","TRUE","",""
+"Bruno","Ferreyra","cred","password","TRUE","TRUE","",""
+"Skyler","Gassel","cred","password","TRUE","TRUE","",""
+"Angel","Gutierrez","cred","password","TRUE","TRUE","",""
+"Lavinia","Hawkins","cred","lot7draw8","false","TRUE","",""
+"Levi","Khachadoorian","cred","password","TRUE","TRUE","",""
+"Kerry","Kong","cred","password","TRUE","TRUE","",""
+"Kent ","Lim","cred","password","TRUE","TRUE","",""
+"Anthony","Mancini","cred","password","TRUE","TRUE","",""
+"Silas","Newcott","cred","password","TRUE","TRUE","",""
+"Dylan","Raya","cred","password","TRUE","TRUE","",""
+"Murphy","Rogers","cred","password","TRUE","TRUE","",""
+"Naima","Torres","cred","password","TRUE","TRUE","",""
+"Ethan","Whittaker","cred","password","TRUE","TRUE","",""
+"Walker","Wilson","cred","password","TRUE","TRUE","",""
+"test","test","cred","pass","TRUE","TRUE","",""
+"Chat","GPT","cred","genai","false","TRUE","",""
+"Chat","GPT","profile","I once built a robot that can solve a Rubik's Cube in under ","I'll be attending Stanford University to study Computer Science.","""Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."" – Christian D. Larson","#3498db","Email: futurecoder@example.com Instagram: @futurecoder"
