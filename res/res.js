@@ -13,7 +13,7 @@ fetch("https://senior-a261.onrender.com/data")
                 title.textContent = item.a;
                 link.textContent = item.b;
                 link.href = item.b;
-                link.setAttribute("target","_blank")
+                link.setAttribute("target","_blank");
                 des.textContent = item.c;
                 resour.className = "resource";
                 resour.appendChild(title);
