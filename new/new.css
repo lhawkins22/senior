@@ -1,0 +1,101 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("backgroun.jpg");
+  background-size: 100vw;
+}
+.header_text {
+  color:white;
+  text-align: center;
+  font-size: 2.73vh;
+  margin-bottom:10px;
+}
+.text {
+  margin:0px;
+  color:white;
+  text-align: center;
+  font-size: 100px;
+  
+}
+.input{
+  /* background-color:hsla(232, 63%, 0%, 0.75); */
+  margin: auto;
+  display: block;
+  /* min-width: 300px; 
+  max-width: 310px;  */
+  /* white-space: nowrap;  */
+  justify-content: space-around;
+  float: center;
+  height: 8vw;
+  width: 75.9vw;
+  position: absolute;
+  top: 45%;
+  left: 57%;
+  transform: translate(-50%, -50%);
+  color: white;
+/*   padding: 0.5vw; */
+  margin: 0vw;
+  font-size: 20px;
+}
+.input #fname{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 80%;
+  height: 70px;
+}
+.input #lname{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 80%;
+  height: 70px;
+}
+.input #pp{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 80%;
+  height: 70px;
+}
+.input #ppc{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 80%;
+  height: 70px;
+}
+
+.input #sname{
+  font-size: 20px;
+  margin-top: 3px;
+  /* margin: auto; */
+  width: 80%;
+  height: 5.4vh;
+}
+.input h3{
+  padding:0vw;
+  margin: 0.8vw;
+}

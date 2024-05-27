@@ -1,0 +1,131 @@
+
+html, body {
+  /* margin: 0; */
+  padding: 0;
+  background-color: rgba(0, 26, 254, 255);
+  height: 100vh;
+  width: 100vw;
+}
+.header_text {
+  color:white;
+  text-align: center;
+  font-size: 2.73vh;
+  /* margin-bottom:10px; */
+}
+.input{
+  /* background-color:hsla(232, 63%, 0%, 0.75); */
+  padding-left: 3vw;
+  /* margin: auto; */
+  display: block;
+  /* min-width: 300px; 
+  max-width: 310px;  */
+  /* white-space: nowrap;  */
+  justify-content: space-around;
+  float: center;
+  height: 8vw;
+  /* width: 115vw; */
+  position: center;
+  /* top: 45%;  */
+  left: 150%;
+  transform: translate(0, -50%); 
+  color: white;
+/*   padding: 0.5vw; */
+  /* margin: 0vw; */
+  font-size: 20px;
+}
+.input #fname{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  height: 5vh;
+}
+.input #lname{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  height: 5vh;
+}
+.input #pass{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  height: 5vh;
+}
+.input #title{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  height: 5vh;
+}
+.input #link{
+  font-size: 30px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  vertical-align: text-top;
+  height: 10vh;
+  white-space: normal;
+}
+
+.input #desc{
+  font-size: 23px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  vertical-align: text-top;
+  height: 30vh;
+  white-space: normal;
+}
+.input #colorr{
+  font-size: 10px;
+  margin-top:10px;
+  border-color: #efeff0 ;
+  border-width: 0.3vw;
+  color: white ;
+  border-style: solid;
+  background-color:hsla(240,100%,25%, 0.85);
+  width: 90vw;
+  vertical-align: text-top;
+  height: 3vh;
+  white-space: normal;
+}
+.input #sname{
+  font-size: 20px;
+  margin-top: 3vh;
+  /* margin: auto; */
+  width: 90vw;
+  height: 5.4vh;
+}
+.input h3{
+  width: 90vw;
+  padding:0vw;
+  margin: 0.8vw;
+}

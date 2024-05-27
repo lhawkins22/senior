@@ -1,0 +1,140 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 185vw;
+  background-color: rgba(0, 26, 254, 255);
+  background-size: 100vw;
+}
+.header_text {
+  color:white;
+  text-align: center;
+  font-size: 4vh;
+  margin-bottom:10px;
+}
+.text{
+  margin-bottom: 7px;
+  background-color: hsla(249, 100%, 50%, 0.35);
+  color:white;
+  vertical-align: center;
+  text-align: center;
+  font-size: 5.4vh;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top:20px;
+}
+.header{
+  /* min-height: 100vh; */
+  position: relative;
+  /* width:100%; */
+  background-image: url("headerimg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+  height: 35vh; 
+  width: 185vw;
+  color:white;
+}
+.buttons ul{
+  display:table-row;
+  margin:0px;
+  padding: 0;
+  list-style-type:none;
+   overflow:hidden; 
+}
+ /* .buttons{
+   margin: auto; 
+  display: block; 
+  min-width: 50px; 
+  max-width: 75px; 
+  white-space: nowrap;  
+  justify-content: space-around;
+   float: center; 
+}  */
+.buttons li{
+  margin : 0px;
+  vertical-align: middle;
+  display: table-cell;
+  min-width: 300px; 
+  max-width: 310px; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center; 
+  /* width: 100%; */
+
+}
+.buttons li a{
+ white-space: initial;  
+  text-decoration:none;
+  text-align: center;
+  background-color: #102141; 
+  color: white; 
+  font-size: 40px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left:1%;
+  padding-right:1%;
+  border-radius: 8px;
+  border: 5px solid #ffffff;
+}
+.profiles{ 
+  padding-top: 0vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 6vh;
+}
+.profile{
+  margin-left: 12vw;
+  margin-right: 12vw;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 160vw;
+  /* height: 35vh; */
+  padding-left: 3vw;
+}
+/*fun fact*/
+.profile p{
+  height: 6vh;
+  margin-top: 2vw;
+  margin-bottom: 1vw;
+  font-style: italic;
+  font-size: 25px;
+  color: white;
+  /* margin: auto; */
+}
+/*Name*/
+.profile h1{
+  margin-top: 0vw;
+  margin-bottom: 0vw;
+  font-style: bold;
+  font-size: 45px;
+  height: 6vh;
+  color: #ffffff;
+}
+/*Whats happening / inspron*/
+.profile h2{
+  margin-top: 4vw;
+  margin-bottom: 0vw;
+  padding-bottom: 2vh;
+  font-size: 30px;
+  font-weight: lighter;
+  color: #ffffff;
+}
+/*contact*/
+.profile h3{
+  margin-top: 4vw;
+  margin-bottom: 0vw;
+  font-style: italic;
+  padding-bottom: 2vh;
+  font-size: 27px;
+  font-weight: lighter;
+  color: #ffffff;
+}
