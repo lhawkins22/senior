@@ -117,11 +117,11 @@ html, body {
   background-color:hsla(240,100%,25%, 0.85);
   width: 90vw;
   vertical-align: text-top;
-  height: 12vh;
+  height: 18vh;
   white-space: normal;
 }
 .input #colorr{
-  font-size: 10px;
+  font-size: 15px;
   margin-top:10px;
   border-color: #efeff0 ;
   border-width: 0.3vw;
@@ -130,7 +130,7 @@ html, body {
   background-color:hsla(240,100%,25%, 0.85);
   width: 90vw;
   vertical-align: text-top;
-  height: 3vh;
+  height: 6vh;
   white-space: normal;
 }
 .input #sname{
