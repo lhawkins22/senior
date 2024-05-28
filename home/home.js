@@ -12,7 +12,7 @@ fetch("https://senior-a261.onrender.com/data")
                 const pf = document.createElement('div');
                 const brr = document.createElement("br");
                 const brrr = document.createElement("br");
-                const soc = document.createElement("h3")
+                const soc = document.createElement("h3");
                 name.textContent = item.fname + " " + item.lname + ":";
                 fact.textContent = item.a;
                 wi.textContent = item.b;
