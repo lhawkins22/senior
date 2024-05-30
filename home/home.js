@@ -34,3 +34,14 @@ fetch("https://senior-a261.onrender.com/data")
     .catch(error => {
         console.error(error);
     });
+    if(window.innerHeight < window.innerWidth){
+        document.getElementById("body").style.width = "100vw";
+        document.getElementById("text").style.fontSize = "5.4vh" ;
+        document.getElementById("header").style.width = "100vw";
+        document.getElementById("header").style.height = "50vh";
+        document.getElementById("bruh").style.minWidth = "45vw";
+        document.getElementById("bruh").style.maxWidth = "45vw";
+        document.getElementById("bruhh").style.fontSize = "4.3vh";
+        document.getElementById("bruhhh").style.fontSize = "4.3vh";
+
+    }
